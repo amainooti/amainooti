@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amainooti&show_icons=true&locale=en&layout=compact" alt="amainooti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amainooti&show_icons=true&locale=en" alt="amainooti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amainooti&" alt="amainooti" /></p>
