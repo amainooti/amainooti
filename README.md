@@ -1,4 +1,4 @@
-# Hi there, I'm Amainooti 👋
+# Welcome
 
 I'm passionate about technology and a sworn knight of the Vim order. Some say I use Vim so much that I type `:wq` to save my grocery list.
 
